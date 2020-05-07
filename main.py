@@ -7,7 +7,7 @@ def ketik(z):
 		sys.stdout.flush()
 		time.sleep(0.05)
 
-def menu()
+
 print '========================='
 print 'Menu Kami'
 print '========================='
