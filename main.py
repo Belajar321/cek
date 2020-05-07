@@ -55,8 +55,8 @@ fad raw_input ('==>')
           Bayar()
 
 def Bayar()
-ketik('Total :Gratis')
 time.sleep(5)
+ketik ('Total : Gratis')
 ketik ('Terimakasih Telah Berkunjung')
 time.sleep(1)
 ketik ('apakah anda Ingin memesannya yang lain? Y/N')
@@ -67,6 +67,6 @@ fad raw_input ('==>')
        if fad== 'N':
           Exit()
 
-if __name__ == '__main__':
-	menu()
+__main__
+	
 
