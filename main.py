@@ -8,13 +8,13 @@ def ketik(z):
 		time.sleep(0.05)
 
 
-print '========================='
-print 'Menu Kami'
-print '========================='
-print '1. Nasi Goreng'
-print '2. Sayur Asem'
-print '3. Keluar'
-print '========================='
+print ('=========================')
+print ('Menu Kami')
+print '=========================')
+print ('1. Nasi Goreng')
+print ('2. Sayur Asem')
+print ('3. Keluar')
+print ('=========================')
 def pilih():
     fad = raw_input('==>')
     if fad == '':
