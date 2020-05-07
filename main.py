@@ -18,7 +18,7 @@ print
 def pilih():
     fad = raw_input('==>')
     if fad == '':
-        print 'Masukan Inputnya '
+        print ('Masukan Inputnya ')
         pilih()
     else:
         if fad == '1':
